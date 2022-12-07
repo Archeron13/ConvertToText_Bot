@@ -1,5 +1,8 @@
 # Convert to Text Bot
 
+## Caution
+I accidently meged both my dev-branch and main branch thus I am creating this branch so that you can check my work. Sorry for the inconvenience 
+
 ## Requirements
 
 - certifi
